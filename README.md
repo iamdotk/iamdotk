@@ -1,6 +1,6 @@
 # 👋 Hi, I'm dotk
 
-🚀 Building intelligent systems that automate real-world workflows.
+🚀 Building AI agents that think, plan, and execute real-world tasks.
 
 ---
 
