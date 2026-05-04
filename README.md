@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm dotk
 
-<!--
-**iamdotk/iamdotk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Building intelligent systems that automate real-world workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I'm focused on
+
+- 🤖 AI Agents & Automation
+- ⚙️ Workflow Execution Systems
+- 🌐 Browser & Task Automation
+- 🧩 Turning ideas into working products
+
+---
+
+## 🔨 Current journey
+
+Starting with **vibe coding** → evolving into **real-world systems**
+
+- Building agent-based tools
+- Experimenting with automation workflows
+- Learning by shipping, not just consuming
+
+---
+
+## 🚀 Goal
+
+To build systems that can:
+
+- Think  
+- Plan  
+- Execute  
+
+…and reduce manual work in everyday tasks.
+
+---
+
+## 🧰 Tech I use
+
+- Python
+- React
+- JavaScript
+- AI APIs
+- Automation tools
+
+---
+
+## 📌 Projects (coming up)
+
+- agent-core → core logic for AI agents  
+- browser-agent → automate web tasks  
+- workflow-engine → smart task execution  
+
+---
+
+## 📫 Connect
+
+- GitHub: https://github.com/iamdotk
+
+---
+
+> "Build fast. Learn faster. Ship constantly."
